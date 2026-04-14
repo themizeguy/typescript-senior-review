@@ -1,5 +1,10 @@
 # typescript-senior-review
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Plugin Version](https://img.shields.io/badge/version-0.1.0-blue.svg)](https://github.com/TheMizeGuy/typescript-senior-review/releases)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-plugin-8A2BE2.svg)](https://claude.com/claude-code)
+[![Model](https://img.shields.io/badge/model-Opus%204.6-orange.svg)](https://www.anthropic.com/claude)
+
 A [Claude Code](https://claude.com/claude-code) plugin that dispatches an **Opus 4.6** senior TypeScript developer agent to review your code across **18 angles** — quality, type-system correctness, architecture, maintainability, security, performance, error handling, testing, modern feature adoption, and ecosystem fit.
 
 The reviewer is a fresh-context subagent with strict **read-only** tool access. Findings come back severity-tagged with concrete code rewrites, file:line locations, and citations. The orchestrator presents the report and asks which findings to apply — nothing is auto-fixed without your explicit selection.
