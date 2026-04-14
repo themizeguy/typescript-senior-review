@@ -1,0 +1,17 @@
+{
+  "name": "typescript-senior-review",
+  "version": "0.1.0",
+  "description": "Comprehensive TypeScript code review by a senior-developer Opus 4.6 agent. Reviews quality, type-system correctness, architecture, maintainability, security, performance, error handling, testing, modern feature adoption, and ecosystem fit across 18 angles. Returns severity-tagged findings with concrete code rewrites.",
+  "author": {
+    "name": "mize"
+  },
+  "keywords": [
+    "typescript",
+    "code-review",
+    "quality",
+    "security",
+    "architecture",
+    "performance",
+    "senior-review"
+  ]
+}
